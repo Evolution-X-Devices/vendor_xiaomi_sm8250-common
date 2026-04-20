@@ -265,6 +265,7 @@ PRODUCT_PACKAGES += \
     libhwdap \
     libmisoundfx \
     libshoebox \
+    libswdap \
     libswgamedap \
     libswvqe \
     vendor.qti.hardware.wifidisplaysession@1.0_vendor \
